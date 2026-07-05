@@ -300,8 +300,6 @@ Add screenshots here after deployment.
 
 Example:
 
-```
-screenshots/
 
 <img width="959" height="536" alt="Screenshot 2026-07-05 153021" src="https://github.com/user-attachments/assets/31aab6ac-d4a2-487e-84f7-62b4c9867ccd" />
 
@@ -314,7 +312,6 @@ screenshots/
 
 <img width="958" height="535" alt="Screenshot 2026-07-05 153054" src="https://github.com/user-attachments/assets/525219f7-bb4f-4bc1-81e8-5a6502ffc93f" />
 
-```
 
 ---
 
