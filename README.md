@@ -107,7 +107,7 @@ DocuMind-AI
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/DocuMind-AI.git
+git clone [https://github.com/yourusername/DocuMind-AI.git](https://github.com/RaghavendraRao510/DocumentMind-AI)
 
 cd DocuMind-AI
 ```
@@ -411,9 +411,9 @@ This project is licensed under the MIT License.
 
 **Raghavendra Rao**
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/RaghavendraRao510)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+[LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raghavendrarao7/)
 
 ---
 
