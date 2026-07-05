@@ -303,13 +303,17 @@ Example:
 ```
 screenshots/
 
-login.png
+<img width="959" height="536" alt="Screenshot 2026-07-05 153021" src="https://github.com/user-attachments/assets/31aab6ac-d4a2-487e-84f7-62b4c9867ccd" />
 
-dashboard.png
 
-upload.png
+<img width="959" height="538" alt="Screenshot 2026-07-05 153032" src="https://github.com/user-attachments/assets/9ed890ce-0657-4db4-b229-d2b61d468f68" />
 
-chat.png
+
+<img width="959" height="533" alt="Screenshot 2026-07-05 153043" src="https://github.com/user-attachments/assets/cde95d69-478b-453e-8809-b9a5cbd09914" />
+
+
+<img width="958" height="535" alt="Screenshot 2026-07-05 153054" src="https://github.com/user-attachments/assets/525219f7-bb4f-4bc1-81e8-5a6502ffc93f" />
+
 ```
 
 ---
